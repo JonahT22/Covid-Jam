@@ -1,0 +1,18 @@
+Interaction #,Type,Destination,Speaker,PreDelay,PostDelay,Text,Goto
+1,Line,Debug,NPC,0.5,0.5,this is line 1,
+2,Line,Debug,NPC,0.5,0.5,this is line 2,
+3,Line,Debug,NPC,0.5,0.5,this is line 3. make a choice,
+4,Input,,,,,,
+5,Prompt,,,,,This is prompt 1,9
+6,Prompt,,,,,This is prompt 2,11
+7,Prompt,,,,,This is prompt 3,12
+8,EndInput,,,,,,
+9,Line,Debug,Player,0.5,0.5,I'm choosing prompt 1,15
+10,Line,Debug,Player,0.5,0.5,I'm choosing prompt 2,
+11,Line,Debug,NPC,0.5,0.5,This is the NPC response to prompt 2,15
+12,Line,Debug,Player,0.5,0.5,I'm choosing prompt 3,
+13,Line,Debug,Player,0.5,0.5,Here's some more prompt 3 talk,
+14,Line,Debug,Player,0.5,0.5,Here's an NPC response to prompt 3,15
+15,Line,Debug,NPC,0.5,0.5,This line always appears no matter what you choose,
+16,Event,,,,,Event1,
+17,EOF,,,,,,
