@@ -1,0 +1,1242 @@
+﻿Log file open, 04/19/20 14:33:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CovidJam
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067471
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AutoSizeComments
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.19-19.33.17:728][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.19-19.33.17:728][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.19-19.33.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.19-19.33.17:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:729][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:733][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.19-19.33.17:733][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.19-19.33.17:734][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.19-19.33.17:734][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.19-19.33.17:734][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.19-19.33.17:737][  0]LogHAL: Display: Platform has ~ 16 GB [17106255872 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.19-19.33.17:737][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.19-19.33.17:737][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:737][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.19-19.33.17:737][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.19-19.33.17:737][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:737][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.19-19.33.17:737][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:737][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.19-19.33.17:737][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.19-19.33.17:737][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.19-19.33.17:738][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.19-19.33.17:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-19.33.17:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.19-19.33.17:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.19-19.33.17:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.19-19.33.17:739][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.19-19.33.17:739][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.19-19.33.17:739][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.19-19.33.17:739][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Config/Windows/Engine.ini]
+[2020.04.19-19.33.17:739][  0]LogInit: Computer: DESKTOP-9RICQS8
+[2020.04.19-19.33.17:739][  0]LogInit: User: Jonah
+[2020.04.19-19.33.17:739][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.19-19.33.17:739][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.19-19.33.17:739][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.19-19.33.17:739][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.19-19.33.17:739][  0]LogMemory: Process Physical Memory: 106.45 MB used, 106.46 MB peak
+[2020.04.19-19.33.17:739][  0]LogMemory: Process Virtual Memory: 101.75 MB used, 101.75 MB peak
+[2020.04.19-19.33.17:739][  0]LogMemory: Physical Memory: 7096.72 MB used,  9217.07 MB free, 16313.80 MB total
+[2020.04.19-19.33.17:739][  0]LogMemory: Virtual Memory: 5125.15 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.04.19-19.33.17:741][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.19-19.33.17:758][  0]LogInit: Using OS detected language (en-US).
+[2020.04.19-19.33.17:758][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.19-19.33.17:759][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.19-19.33.17:886][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.19-19.33.17:918][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.19-19.33.17:918][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.19-19.33.18:054][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.19-19.33.18:054][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.19-19.33.18:054][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.19-19.33.18:054][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.19-19.33.18:114][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2020.04.19-19.33.18:114][  0]LogD3D11RHI:       8011/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.19-19.33.18:117][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.19-19.33.18:117][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.19-19.33.18:117][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.19-19.33.18:126][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.19-19.33.18:126][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.19-19.33.18:126][  0]LogWindows: EnumDisplayDevices:
+[2020.04.19-19.33.18:126][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2020.04.19-19.33.18:126][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2020.04.19-19.33.18:127][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.04.19-19.33.18:127][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.04.19-19.33.18:127][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.19-19.33.18:127][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2020.04.19-19.33.18:127][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.19-19.33.18:127][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.19-19.33.18:127][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2020.04.19-19.33.18:168][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.19-19.33.18:168][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.19-19.33.18:169][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2020.04.19-19.33.18:187][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.19-19.33.18:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.19-19.33.18:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.19-19.33.18:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.19-19.33.18:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.19-19.33.18:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.19-19.33.18:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.19-19.33.18:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.19-19.33.18:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.19-19.33.18:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.19-19.33.18:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.19-19.33.18:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.19-19.33.18:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.19-19.33.18:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.19-19.33.18:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.19-19.33.18:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.19-19.33.18:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.19-19.33.18:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.19-19.33.18:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.19-19.33.18:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.19-19.33.18:595][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.19-19.33.18:597][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.19-19.33.18:620][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Intermediate/Shaders/WorkingDirectory/18400/).
+[2020.04.19-19.33.18:620][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonah/AppData/Local/Temp/UnrealShaderWorkingDir/F600EF2742E185C337398B8BE62CF449/'.
+[2020.04.19-19.33.18:620][  0]LogXGEController: Cleaning working directory: C:/Users/Jonah/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.19-19.33.18:620][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.19-19.33.18:621][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.19-19.33.18:621][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.19-19.33.19:242][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.19-19.33.19:286][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Jonah/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.19-19.33.19:286][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jonah/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.19-19.33.19:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.19-19.33.19:286][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.19-19.33.19:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.19-19.33.19:286][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.19-19.33.19:295][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.19-19.33.19:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.19-19.33.19:295][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.19-19.33.19:297][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.19-19.33.19:297][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.19-19.33.19:297][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.19-19.33.19:319][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.19-19.33.19:321][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.19-19.33.19:322][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.19-19.33.19:369][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.04.19-19.33.19:639][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.19-19.33.19:770][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.19-19.33.19:771][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.19-19.33.19:771][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.19-19.33.19:771][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.19-19.33.19:771][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.19-19.33.19:782][  0]LogNetVersion: CovidJam 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1950834358)
+[2020.04.19-19.33.20:675][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.027352 seconds
+[2020.04.19-19.33.20:681][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.19-19.33.20:681][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.19-19.33.20:681][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.19-19.33.21:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.19-19.33.21:035][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.19-19.33.21:085][  0]SourceControl: Source control is disabled
+[2020.04.19-19.33.21:085][  0]SourceControl: Source control is disabled
+[2020.04.19-19.33.21:086][  0]SourceControl: Source control is disabled
+[2020.04.19-19.33.21:087][  0]SourceControl: Source control is disabled
+[2020.04.19-19.33.21:088][  0]SourceControl: Source control is disabled
+[2020.04.19-19.33.21:174][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.19-19.33.21:185][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.19-19.33.21:185][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.19-19.33.21:261][  0]LogOcInput: OculusInput pre-init called
+[2020.04.19-19.33.21:269][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.19-19.33.21:269][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.19-19.33.21:332][  0]LogEngine: Initializing Engine...
+[2020.04.19-19.33.21:333][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.19-19.33.21:334][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.19-19.33.21:621][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.19-19.33.21:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-19.33.21:637][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-19.33.21:637][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-19.33.21:637][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-19.33.21:653][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-19.33.21:679][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-19.33.21:683][  0]LogInit: FAudioDevice initialized.
+[2020.04.19-19.33.21:683][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.19-19.33.21:830][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Jonah/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.19-19.33.21:831][  0]LogInit: Texture streaming: Enabled
+[2020.04.19-19.33.21:842][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.19-19.33.21:842][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.19-19.33.21:846][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.19-19.33.21:879][  0]LogInit: Transaction tracking system initialized
+[2020.04.19-19.33.21:889][  0]BlueprintLog: New page: Editor Load
+[2020.04.19-19.33.21:918][  0]LocalizationService: Localization service is disabled
+[2020.04.19-19.33.22:162][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/' took 0.01s
+[2020.04.19-19.33.22:162][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.19-19.33.22:162][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.19-19.33.22:763][  0]SourceControl: Source control is disabled
+[2020.04.19-19.33.22:763][  0]Cmd: MAP LOAD FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.19-19.33.22:763][  0]LogEditorServer: Warning: Can't find file 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.19-19.33.22:763][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-19.33.22:764][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.344ms to complete.
+[2020.04.19-19.33.22:764][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2020.04.19-19.33.22:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.33.22:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.33.22:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.33.22:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.33.22:902][  0]LogCollectionManager: Loaded 0 collections in 0.002697 seconds
+[2020.04.19-19.33.22:915][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Collections/' took 0.00s
+[2020.04.19-19.33.22:915][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/Developers/Jonah/Collections/' took 0.00s
+[2020.04.19-19.33.22:915][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/Collections/' took 0.00s
+[2020.04.19-19.33.22:915][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3016 classes and 720 folders.
+[2020.04.19-19.33.22:917][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.19-19.33.22:989][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.19-19.33.22:992][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.19-19.33.23:059][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.19-19.33.23:061][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.19-19.33.23:066][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.19-19.33.23:125][  0]LogRenderer: Reallocating scene render targets to support 1288x620 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-19.33.23:200][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.19-19.33.23:200][  0]LogLoad: (Engine Initialization) Total time: 7.38 seconds
+[2020.04.19-19.33.23:200][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.19-19.33.23:246][  0]LogAssetRegistry: Asset discovery search completed in 3.8772 seconds
+[2020.04.19-19.33.23:249][  0]LogAutoSizeComments: Loaded auto size comments cache: ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/E996A0F44BCE06BA2863EF9DD5A8ACAA.json
+[2020.04.19-19.33.23:249][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.04.19-19.33.23:250][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.19-19.33.35:868][441]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.19-19.33.35:881][441]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_GameplayUI.WB_GameplayUI
+[2020.04.19-19.33.35:998][441]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.19-19.33.36:919][441]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.19-19.33.37:495][471]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_PhoneText.WB_PhoneText
+[2020.04.19-19.33.38:594][534]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_ScrollingBox.WB_ScrollingBox
+[2020.04.19-19.33.44:838][965]LogSlate: Window 'WB_ScrollingBox' being destroyed
+[2020.04.19-19.33.46:005][ 63]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.19-19.36.12:663][512]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.19-19.36.17:782][841]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.19-19.36.19:533][995]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.19-19.36.24:154][148]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.04.19-19.36.25:796][255]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.19-19.36.25:814][255]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.19-19.37.12:124][332]LogEditorTransaction: Undo Promote To Variable
+[2020.04.19-19.38.03:442][ 18]BlueprintLog: New page: Compile WB_ScrollingBox
+[2020.04.19-19.38.03:738][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.04.19-19.38.04:043][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ScrollingBox" FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset" SILENT=true
+[2020.04.19-19.38.04:105][ 35]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_ScrollingBoxBDCE73E0485284250AE78586FA7B70EB.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset'
+[2020.04.19-19.38.04:130][ 35]AssetCheck: New page: Asset Save: WB_ScrollingBox
+[2020.04.19-19.38.04:130][ 35]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_ScrollingBox.WB_ScrollingBox
+[2020.04.19-19.38.54:282][892]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-19.38.54:292][892]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CovidGameMap.CovidGameMap
+[2020.04.19-19.38.54:338][892]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.04.19-19.38.54:340][892]Cmd: MAP LOAD FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/Maps/CovidGameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.19-19.38.54:340][892]LightingResults: New page: Lighting Build
+[2020.04.19-19.38.54:343][892]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2020.04.19-19.38.54:344][892]LoadErrors: New page: Loading map: CovidGameMap.umap
+[2020.04.19-19.38.54:344][892]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-19.38.54:344][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.38.54:344][892]MapCheck: New page: Map Check
+[2020.04.19-19.38.54:344][892]LightingResults: New page: Lighting Build
+[2020.04.19-19.38.54:388][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.19-19.38.54:476][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.19-19.38.54:520][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.19-19.38.54:536][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-19.38.54:536][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2020.04.19-19.38.54:536][892]LogFileHelpers: Loading map 'CovidGameMap' took 0.196
+[2020.04.19-19.38.54:826][893]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.19-19.48.51:246][918]BlueprintLog: New page: Compile WB_ScrollingBox
+[2020.04.19-19.48.51:590][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.19-19.48.54:336][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.04.19-19.48.54:337][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CovidGameMap' took 0.049
+[2020.04.19-19.48.54:337][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WB_ScrollingBox] ([1] browsable assets)...
+[2020.04.19-19.48.54:337][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_ScrollingBox]
+[2020.04.19-19.48.54:398][ 88]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_ScrollingBox_Auto1FFC568884DB4CDF90F98F3936BEF3E73.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/Autosaves/Game/UI/WB_ScrollingBox_Auto1.uasset'
+[2020.04.19-19.48.54:401][ 88]LogFileHelpers: Auto-saving content packages took 0.064
+[2020.04.19-19.50.23:598][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2020.04.19-19.51.19:447][131]BlueprintLog: New page: Compile WB_ScrollingBox
+[2020.04.19-19.51.19:752][131]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.04.19-19.51.20:213][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ScrollingBox" FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset" SILENT=true
+[2020.04.19-19.51.20:277][159]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_ScrollingBox9C585B494A0525C284822CA7F053E169.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset'
+[2020.04.19-19.51.20:295][159]AssetCheck: New page: Asset Save: WB_ScrollingBox
+[2020.04.19-19.51.20:295][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_ScrollingBox.WB_ScrollingBox
+[2020.04.19-19.51.31:176][403]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-19.51.31:201][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.51.31:202][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-19.51.31:202][403]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 9:51:31 AM)
+[2020.04.19-19.51.31:203][403]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.19-19.51.31:204][403]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.19-19.51.31:204][403]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.51.31:207][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002367s)
+[2020.04.19-19.51.31:207][403]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-19.51.31:207][403]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2020.04.19-19.51.31:207][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003541s)
+[2020.04.19-19.51.31:255][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-19.51.31:256][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-19.51.31:256][403]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-19.51.31:256][403]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: Channel Order:
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-19.51.31:269][403]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-19.51.31:288][403]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-19.51.31:289][403]LogInit: FAudioDevice initialized.
+[2020.04.19-19.51.31:311][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.51.31:312][403]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-19.51.31:313][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-14.51.31
+[2020.04.19-19.51.31:313][403]LogWorld: Bringing up level for play took: 0.000916
+[2020.04.19-19.51.31:314][403]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.19-19.51.31:319][403]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.19-19.51.31:323][403]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap 0.151
+[2020.04.19-19.51.31:323][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.51.36:639][756]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.51.36:640][756]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.51.36:640][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.51.36:640][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.51.36:640][756]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.51.36:648][756]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-19.51.36:673][756]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.51.36:674][756]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-19.51.36:674][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.51.36:680][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-19.51.36:680][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.51.36:687][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.51.36:733][756]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.51.36:775][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.19-19.51.36:795][757]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.19-19.51.56:593][659]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-19.51.56:620][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.51.56:620][659]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-19.51.56:623][659]LogPlayLevel: [PlayLevel] Compiling WB_ScrollingBox before play...
+[2020.04.19-19.51.57:010][659]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2020.04.19-19.51.57:011][659]LogPlayLevel: PlayLevel: Blueprint regeneration took 391 ms (1 blueprints)
+[2020.04.19-19.51.57:011][659]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 9:51:57 AM)
+[2020.04.19-19.51.57:011][659]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.51.57:014][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002480s)
+[2020.04.19-19.51.57:014][659]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-19.51.57:015][659]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2020.04.19-19.51.57:015][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003389s)
+[2020.04.19-19.51.57:059][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-19.51.57:059][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-19.51.57:059][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-19.51.57:060][659]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-19.51.57:060][659]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: Channel Order:
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-19.51.57:072][659]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-19.51.57:090][659]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-19.51.57:092][659]LogInit: FAudioDevice initialized.
+[2020.04.19-19.51.57:111][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.51.57:111][659]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-19.51.57:113][659]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-14.51.57
+[2020.04.19-19.51.57:113][659]LogWorld: Bringing up level for play took: 0.001061
+[2020.04.19-19.51.57:113][659]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.19-19.51.57:116][659]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap -0.056
+[2020.04.19-19.51.57:117][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.51.57:858][704]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.51.58:441][744]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.51.58:896][775]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.51.59:311][804]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.51.59:708][831]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.52.00:016][852]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.52.00:522][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.00:523][887]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.19-19.52.00:543][887]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.19-19.52.00:543][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.52.00:543][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.52.00:543][887]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.52.00:551][887]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-19.52.00:559][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.00:559][887]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-19.52.00:559][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.52.00:566][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-19.52.00:566][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.52.00:573][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.52.00:612][887]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.00:620][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.19-19.52.00:640][888]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.19-19.52.17:394][494]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-19.52.17:420][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.52.17:420][494]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-19.52.17:423][494]LogPlayLevel: [PlayLevel] Compiling WB_ScrollingBox before play...
+[2020.04.19-19.52.17:749][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.04.19-19.52.17:750][494]LogPlayLevel: PlayLevel: Blueprint regeneration took 328 ms (1 blueprints)
+[2020.04.19-19.52.17:750][494]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 9:52:17 AM)
+[2020.04.19-19.52.17:750][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.52.17:752][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002419s)
+[2020.04.19-19.52.17:753][494]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-19.52.17:753][494]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2020.04.19-19.52.17:753][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003327s)
+[2020.04.19-19.52.17:797][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-19.52.17:798][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-19.52.17:798][494]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-19.52.17:798][494]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: Channel Order:
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-19.52.17:810][494]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-19.52.17:829][494]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-19.52.17:831][494]LogInit: FAudioDevice initialized.
+[2020.04.19-19.52.17:856][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.52.17:856][494]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-19.52.17:858][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-14.52.17
+[2020.04.19-19.52.17:858][494]LogWorld: Bringing up level for play took: 0.000909
+[2020.04.19-19.52.17:858][494]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.19-19.52.17:861][494]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap 0.689
+[2020.04.19-19.52.17:861][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.52.18:441][528]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.52.19:059][570]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.52.20:789][688]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.52.21:684][749]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.52.22:409][798]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.22:409][798]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.22:409][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.52.22:409][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.52.22:409][798]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.52.22:417][798]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-19.52.22:442][798]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.22:442][798]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-19.52.22:442][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.52.22:448][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-19.52.22:448][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.52.22:455][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.52.22:487][798]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.52.22:496][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.04.19-19.52.22:518][799]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.19-19.56.55:544][167]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-19.56.55:576][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.56.55:576][167]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-19.56.55:579][167]LogPlayLevel: [PlayLevel] Compiling WB_ScrollingBox before play...
+[2020.04.19-19.56.55:924][167]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.04.19-19.56.55:926][167]LogPlayLevel: PlayLevel: Blueprint regeneration took 349 ms (1 blueprints)
+[2020.04.19-19.56.55:926][167]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 9:56:55 AM)
+[2020.04.19-19.56.55:926][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.56.55:929][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002510s)
+[2020.04.19-19.56.55:929][167]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-19.56.55:930][167]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2020.04.19-19.56.55:930][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003453s)
+[2020.04.19-19.56.55:975][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-19.56.55:975][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-19.56.55:975][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-19.56.55:976][167]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-19.56.55:976][167]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: Channel Order:
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-19.56.55:988][167]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-19.56.56:007][167]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-19.56.56:009][167]LogInit: FAudioDevice initialized.
+[2020.04.19-19.56.56:034][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.56.56:034][167]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-19.56.56:035][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-14.56.56
+[2020.04.19-19.56.56:035][167]LogWorld: Bringing up level for play took: 0.000931
+[2020.04.19-19.56.56:036][167]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.04.19-19.56.56:039][167]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap 0.867
+[2020.04.19-19.56.56:039][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.56.56:736][207]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.56.58:081][299]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.56.59:397][389]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.00:565][468]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.02:096][572]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.03:461][665]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.04:743][752]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.05:963][834]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.07:354][928]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.07:895][965]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.08:164][983]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.08:366][997]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.08:572][ 11]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.08:760][ 24]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.08:922][ 35]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.10:680][154]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.11:674][222]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.11:867][235]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.12:075][249]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.12:222][259]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.13:703][360]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.13:910][374]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.14:099][387]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.14:261][398]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.14:547][417]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.16:169][526]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.16:352][538]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.16:996][582]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.17:321][604]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.18:143][660]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.18:933][714]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.19:784][772]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.20:448][817]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.20:969][852]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.21:426][883]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.21:969][920]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.22:486][955]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.23:045][992]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.23:598][ 29]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.25:608][165]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.27:420][288]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.28:830][383]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.30:270][481]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.31:261][548]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-19.57.32:834][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.57.32:834][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.57.32:834][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.57.32:836][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-19.57.32:836][653]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-19.57.32:844][653]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-19.57.32:868][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.57.32:869][653]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-19.57.32:869][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.57.32:875][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-19.57.32:875][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-19.57.32:882][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-19.57.32:926][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-19.57.32:934][653]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.19-19.57.32:957][654]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.19-19.59.58:242][424]BlueprintLog: New page: Compile WB_ScrollingBox
+[2020.04.19-19.59.58:581][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.04.19-19.59.58:799][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ScrollingBox" FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset" SILENT=true
+[2020.04.19-19.59.58:868][435]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_ScrollingBoxEE47EAF04D101C039DE430A2DF2D3B49.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset'
+[2020.04.19-19.59.58:887][435]AssetCheck: New page: Asset Save: WB_ScrollingBox
+[2020.04.19-19.59.58:887][435]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_ScrollingBox.WB_ScrollingBox
+[2020.04.19-20.00.09:504][614]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-20.00.09:530][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.00.09:530][614]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-20.00.09:532][614]LogPlayLevel: [PlayLevel] Compiling WB_GameplayUI before play...
+[2020.04.19-20.00.09:862][614]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.04.19-20.00.09:863][614]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (1 blueprints)
+[2020.04.19-20.00.09:863][614]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 10:00:09 AM)
+[2020.04.19-20.00.09:863][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.00.09:865][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002375s)
+[2020.04.19-20.00.09:866][614]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-20.00.09:866][614]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2020.04.19-20.00.09:866][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003355s)
+[2020.04.19-20.00.09:912][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.04.19-20.00.09:912][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-20.00.09:913][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-20.00.09:913][614]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-20.00.09:913][614]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: Channel Order:
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-20.00.09:929][614]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-20.00.09:948][614]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-20.00.09:950][614]LogInit: FAudioDevice initialized.
+[2020.04.19-20.00.09:975][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.00.09:975][614]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-20.00.09:976][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-15.00.09
+[2020.04.19-20.00.09:976][614]LogWorld: Bringing up level for play took: 0.000955
+[2020.04.19-20.00.09:976][614]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.04.19-20.00.09:980][614]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap 0.809
+[2020.04.19-20.00.09:981][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.00.10:615][652]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.00.11:046][681]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.00.12:639][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.00.12:639][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.00.12:639][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.00.12:639][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.00.12:639][790]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.00.12:647][790]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-20.00.12:668][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.00.12:668][790]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-20.00.12:668][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.00.12:674][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-20.00.12:674][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.00.12:681][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.00.12:724][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.00.12:733][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.04.19-20.00.12:745][791]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.19-20.00.21:526][727]LogEditorTransaction: Undo Edit Top
+[2020.04.19-20.00.29:791][347]BlueprintLog: New page: Compile WB_GameplayUI
+[2020.04.19-20.00.29:843][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.04.19-20.00.30:402][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_GameplayUI" FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_GameplayUI.uasset" SILENT=true
+[2020.04.19-20.00.30:442][394]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_GameplayUI2C5D53AA431288E429F885BD70DD494A.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_GameplayUI.uasset'
+[2020.04.19-20.00.30:458][394]AssetCheck: New page: Asset Save: WB_GameplayUI
+[2020.04.19-20.00.30:458][394]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_GameplayUI.WB_GameplayUI
+[2020.04.19-20.00.54:199][664]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-20.00.54:225][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.00.54:225][664]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-20.00.54:227][664]LogPlayLevel: [PlayLevel] Compiling WB_ScrollingBox before play...
+[2020.04.19-20.00.54:578][664]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.04.19-20.00.54:579][664]LogPlayLevel: PlayLevel: Blueprint regeneration took 354 ms (1 blueprints)
+[2020.04.19-20.00.54:579][664]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 10:00:54 AM)
+[2020.04.19-20.00.54:579][664]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.00.54:582][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002470s)
+[2020.04.19-20.00.54:582][664]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-20.00.54:582][664]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2020.04.19-20.00.54:582][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003361s)
+[2020.04.19-20.00.54:628][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-20.00.54:628][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-20.00.54:628][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-20.00.54:629][664]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-20.00.54:629][664]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: Channel Order:
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-20.00.54:641][664]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-20.00.54:660][664]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-20.00.54:662][664]LogInit: FAudioDevice initialized.
+[2020.04.19-20.00.54:687][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.00.54:688][664]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-20.00.54:689][664]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-15.00.54
+[2020.04.19-20.00.54:689][664]LogWorld: Bringing up level for play took: 0.000878
+[2020.04.19-20.00.54:689][664]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.19-20.00.54:693][664]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap -0.48
+[2020.04.19-20.00.54:693][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.00.55:424][710]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.00.56:232][766]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.00.57:277][839]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.00.58:688][938]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.00:105][ 37]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.01:503][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.01:503][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.01:504][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.01.01:504][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.01.01:504][133]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.01.01:513][133]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-20.01.01:536][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.01:536][133]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-20.01.01:537][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.01.01:544][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-20.01.01:544][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.01.01:551][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.01.01:592][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.01:600][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.04.19-20.01.01:617][134]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.19-20.01.23:114][366]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-20.01.23:139][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.01.23:140][366]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-20.01.23:142][366]LogPlayLevel: [PlayLevel] Compiling WB_ScrollingBox before play...
+[2020.04.19-20.01.23:442][366]LogPlayLevel: [PlayLevel] Compiling WB_GameplayUI before play...
+[2020.04.19-20.01.23:741][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.04.19-20.01.23:742][366]LogPlayLevel: PlayLevel: Blueprint regeneration took 602 ms (2 blueprints)
+[2020.04.19-20.01.23:742][366]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 10:01:23 AM)
+[2020.04.19-20.01.23:742][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.01.23:744][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002439s)
+[2020.04.19-20.01.23:745][366]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-20.01.23:745][366]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.04.19-20.01.23:745][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003346s)
+[2020.04.19-20.01.23:791][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-20.01.23:791][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-20.01.23:791][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-20.01.23:792][366]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-20.01.23:792][366]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: Channel Order:
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-20.01.23:804][366]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-20.01.23:822][366]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-20.01.23:824][366]LogInit: FAudioDevice initialized.
+[2020.04.19-20.01.23:851][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.01.23:851][366]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-20.01.23:852][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-15.01.23
+[2020.04.19-20.01.23:852][366]LogWorld: Bringing up level for play took: 0.001015
+[2020.04.19-20.01.23:852][366]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.19-20.01.23:856][366]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap 0.684
+[2020.04.19-20.01.23:856][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.01.24:528][409]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.25:195][456]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.25:789][498]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.26:385][540]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.27:060][587]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.27:655][629]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.28:242][670]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.01.28:911][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.28:911][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.28:911][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.01.28:911][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.01.28:911][717]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.01.28:920][717]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-20.01.28:942][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.28:942][717]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-20.01.28:943][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.01.28:951][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-20.01.28:951][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.01.28:958][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.01.28:999][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.01.29:008][717]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.19-20.01.29:019][718]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.19-20.01.31:150][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_GameplayUI" FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_GameplayUI.uasset" SILENT=true
+[2020.04.19-20.01.31:190][934]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_GameplayUI9AA7C1F047A478C82FF83885C567EE4E.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_GameplayUI.uasset'
+[2020.04.19-20.01.31:207][934]AssetCheck: New page: Asset Save: WB_GameplayUI
+[2020.04.19-20.01.31:207][934]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_GameplayUI.WB_GameplayUI
+[2020.04.19-20.01.59:375][292]BlueprintLog: New page: Compile WB_ScrollingBox
+[2020.04.19-20.01.59:701][292]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.04.19-20.02.17:211][818]BlueprintLog: New page: Compile WB_ScrollingBox
+[2020.04.19-20.02.17:527][818]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.04.19-20.02.17:689][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_ScrollingBox" FILE="D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset" SILENT=true
+[2020.04.19-20.02.17:755][825]LogSavePackage: Moving 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Saved/WB_ScrollingBox249F6B0D4FFAA6598355B6AC7DA259D5.tmp' to 'D:/Libraries/Documents/1 Personal/Game Design/Major Projects/Covid Jam/CovidJam/Content/UI/WB_ScrollingBox.uasset'
+[2020.04.19-20.02.17:777][825]AssetCheck: New page: Asset Save: WB_ScrollingBox
+[2020.04.19-20.02.17:777][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_ScrollingBox.WB_ScrollingBox
+[2020.04.19-20.02.18:188][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-20.02.18:215][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.02.18:215][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-20.02.18:215][857]PIE: New page: PIE session: CovidGameMap (Apr 19, 2020, 10:02:18 AM)
+[2020.04.19-20.02.18:215][857]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.02.18:217][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002387s)
+[2020.04.19-20.02.18:218][857]LogAIModule: Creating AISystem for world CovidGameMap
+[2020.04.19-20.02.18:218][857]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2020.04.19-20.02.18:218][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CovidGameMap.CovidGameMap to /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap (0.003325s)
+[2020.04.19-20.02.18:268][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-20.02.18:268][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-20.02.18:268][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-20.02.18:269][857]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-20.02.18:269][857]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: Channel Order:
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-20.02.18:281][857]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-20.02.18:299][857]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.19-20.02.18:301][857]LogInit: FAudioDevice initialized.
+[2020.04.19-20.02.18:327][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.02.18:327][857]LogLoad: Game class is 'GM_Covid_C'
+[2020.04.19-20.02.18:329][857]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CovidGameMap.CovidGameMap up for play (max tick rate 0) at 2020.04.19-15.02.18
+[2020.04.19-20.02.18:329][857]LogWorld: Bringing up level for play took: 0.000928
+[2020.04.19-20.02.18:329][857]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.19-20.02.18:334][857]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CovidGameMap -0.838
+[2020.04.19-20.02.18:334][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.02.19:032][901]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.02.19:519][935]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.02.20:031][971]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.02.20:532][  6]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.02.21:039][ 41]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.02.21:499][ 73]LogBlueprintUserMessages: [WB_ScrollingBox] 30.0
+[2020.04.19-20.02.22:173][119]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.02.22:173][119]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.02.22:174][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.02.22:174][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-20.02.22:174][119]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CovidGameMap
+[2020.04.19-20.02.22:183][119]LogSlate: Window 'CovidJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-20.02.22:208][119]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.02.22:208][119]LogWorld: UWorld::CleanupWorld for CovidGameMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-20.02.22:208][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.02.22:211][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-20.02.22:212][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.02.22:218][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-20.02.22:260][119]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-20.02.22:268][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.04.19-20.02.22:287][120]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.19-20.02.45:337][432]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.19-20.02.45:363][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap' with GeneratedClass '/Game/Maps/CovidGameMap.CovidGameMap_C' with ClassGeneratedBy '/Game/Maps/CovidGameMap.CovidGameMap:PersistentLevel.CovidGameMap'
+[2020.04.19-20.02.45:363][432]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-20.02.45:365][432]LogPlayLevel: [PlayLevel] Compiling WB_GameplayUI before play...
+[2020.04.19-20.02.45:692][432]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.19-20.02.46:023][432]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.330 s
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: 
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: SObjectWidget for 'WB_ScrollingBox_C /Engine/Transient.World_1:WB_GameplayUI_C_49.WidgetTree_0.WB_ScrollingBox' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: Stack: 
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1cce5d0e UE4Editor-UMG.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1cb4f7a6 UE4Editor-UMG.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1ebaf55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc4583e40e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc4582be98 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc45831219 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1cc1415b UE4Editor-UMG.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc2213b4b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc2211807e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc2200c308 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc2200b53c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1dc95eac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1dc81bfc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1dc9d285 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1d76a5f5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc1dfce476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ff6ccc27f62 UE4Editor.exe!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ff6ccc3c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ff6ccc3c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ff6ccc4ceae UE4Editor.exe!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ff6ccc4fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc8fcb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: [Callstack] 0x00007ffc910cce51 ntdll.dll!UnknownFunction []
+[2020.04.19-20.02.46:023][432]LogOutputDevice: Error: 
+[2020.04.19-20.02.46:030][432]LogStats:                SubmitErrorReport -  0.000 s
